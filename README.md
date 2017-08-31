@@ -5,8 +5,9 @@ This repository contains models constructed for the project "Computational Model
 
 There are two models in this repository, both of which can be opened in the software BioModelAnalyzer (http://biomodelanalyzer.org/ or https://github.com/Microsoft/BioModelAnalyzer/):
 
-InitialModel.json - the initial, primitive model generated from manual curation of 30 publications; AND
-RefinedModel.json - the finalized, refined model generated from modularization and a further curation of 30 publications.
+--  InitialModel.json - the initial, primitive model generated from manual curation of 30 publications; AND
+
+--  RefinedModel.json - the finalized, refined model generated from modularization and a further curation of 30 publications.
 
 The author is grateful for any comments which may be sent to jz406@cam.ac.uk.
 

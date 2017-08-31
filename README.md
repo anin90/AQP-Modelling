@@ -3,7 +3,7 @@ Repository for the Computational Modelling of Aquaporin (AQP) Co-regulation in C
 
 This repository contains models constructed for the project "Computational Modelling of Aquaporin (AQP) Co-regulation in Cancer", undertaken in the group of Dr Benjamin Hall at the MRC Cancer Unit, University of Cambridge in summer 2017.
 
-There are two models in this repository, whose .json file can be downloaded then opened in the software BioModelAnalyzer (http://biomodelanalyzer.org/ or https://github.com/Microsoft/BioModelAnalyzer/):
+There are two models in this repository, whose .json files can be downloaded then opened in the software BioModelAnalyzer (http://biomodelanalyzer.org/ or https://github.com/Microsoft/BioModelAnalyzer/):
 
 --  InitialModel.json - the initial, primitive model generated from manual curation of 30 publications; AND
 
